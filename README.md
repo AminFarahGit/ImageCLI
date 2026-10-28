@@ -1,0 +1,1 @@
+ImageCLI is an easy to use command line program where you simply type the directory of your target images and the specified format. The program will handle the conversion using rayon for multithreaded parallel CPU work with the memory safety of Rust. 
